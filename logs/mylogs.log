@@ -1,0 +1,373 @@
+20241030 22:58:00 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce User Menu Tests started...............
+20241030 22:58:00 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 22:58:03 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 22:58:03 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforDeveloperConsole_Usermenu
+20241030 22:58:03 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforDeveloperConsole_Usermenu test started
+20241030 22:58:03 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 22:58:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 22:58:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 22:58:07 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241030 22:58:08 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241030 22:58:10 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - Developer Console tab is displayed.
+20241030 22:58:12 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java111 - Developer Console window closed.
+20241030 22:58:12 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforDeveloperConsole_Usermenu test passed
+20241030 22:58:15 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:58:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 22:58:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 22:58:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 22:58:16 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 22:58:16 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforlogout_Usermenu
+20241030 22:58:16 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforlogout_Usermenu test started
+20241030 22:58:16 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 22:58:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 22:58:18 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 22:58:21 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241030 22:58:21 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241030 22:58:23 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - Logout option is displayed.
+20241030 22:58:31 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java147 - Logout successful, login page displayed.
+20241030 22:58:31 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforlogout_Usermenu test passed
+20241030 22:58:32 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:58:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 22:58:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 22:58:32 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 22:58:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 22:58:34 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforusername_Usermenu
+20241030 22:58:34 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforusername_Usermenu test started
+20241030 22:58:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 22:58:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 22:58:35 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 22:58:38 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241030 22:58:38 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241030 22:58:40 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforusername_Usermenu test passed
+20241030 22:58:43 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:58:43 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 22:58:43 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 22:58:43 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce User Menu Tests finished
+20241030 22:58:43 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce SFDC started...............
+20241030 22:58:43 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 22:58:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 22:58:45 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testForgotPasswordFunctionality
+20241030 22:58:45 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testForgotPasswordFunctionality test started
+20241030 22:58:45 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java130 - SFDC application launched.
+20241030 22:58:45 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java50 - Forgot Password link is displayed.
+20241030 22:58:50 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testForgotPasswordFunctionality test passed
+20241030 22:58:51 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:58:51 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:58:51 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 22:58:51 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 22:58:51 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 22:58:53 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 22:58:53 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforPassword_SFDC
+20241030 22:58:53 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforPassword_SFDC test started
+20241030 22:58:53 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 22:58:53 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 22:58:54 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 22:58:57 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforPassword_SFDC test passed
+20241030 22:58:58 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:58:58 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:58:58 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 22:58:58 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 22:58:58 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 22:59:00 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 22:59:00 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforRemebermecheckBOX_SFDC
+20241030 22:59:00 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforRemebermecheckBOX_SFDC test started
+20241030 22:59:03 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 22:59:03 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 22:59:03 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 22:59:06 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforRemebermecheckBOX_SFDC test passed
+20241030 22:59:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:59:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:59:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 22:59:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 22:59:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 22:59:09 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 22:59:09 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforSalesforceLoginPage_SFDC
+20241030 22:59:09 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforSalesforceLoginPage_SFDC test started
+20241030 22:59:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 22:59:10 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 22:59:10 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 22:59:13 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforSalesforceLoginPage_SFDC test passed
+20241030 22:59:15 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:59:15 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 22:59:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 22:59:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 22:59:15 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce SFDC finished
+20241030 23:17:34 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce User Menu Tests started...............
+20241030 23:17:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 23:17:37 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 23:17:37 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforDeveloperConsole_Usermenu
+20241030 23:17:37 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforDeveloperConsole_Usermenu test started
+20241030 23:17:37 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 23:17:37 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 23:17:38 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 23:17:41 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241030 23:17:41 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241030 23:17:44 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - Developer Console tab is displayed.
+20241030 23:17:46 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java111 - Developer Console window closed.
+20241030 23:17:46 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforDeveloperConsole_Usermenu test passed
+20241030 23:17:48 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:17:48 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 23:17:48 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 23:17:48 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 23:17:50 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 23:17:50 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforlogout_Usermenu
+20241030 23:17:50 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforlogout_Usermenu test started
+20241030 23:17:50 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 23:17:50 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 23:17:51 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 23:17:54 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241030 23:17:54 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241030 23:17:56 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - Logout option is displayed.
+20241030 23:18:03 ERROR [main] Utility.SalesforceListener SalesforceListener.java64 - testforlogout_Usermenu test failed
+20241030 23:18:05 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:05 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 23:18:05 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 23:18:05 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 23:18:06 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 23:18:06 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforusername_Usermenu
+20241030 23:18:06 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforusername_Usermenu test started
+20241030 23:18:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 23:18:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 23:18:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 23:18:10 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241030 23:18:10 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241030 23:18:13 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforusername_Usermenu test passed
+20241030 23:18:14 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:14 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 23:18:14 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 23:18:14 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce User Menu Tests finished
+20241030 23:18:14 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce SFDC started...............
+20241030 23:18:14 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 23:18:16 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 23:18:16 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testForgotPasswordFunctionality
+20241030 23:18:16 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testForgotPasswordFunctionality test started
+20241030 23:18:16 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java130 - SFDC application launched.
+20241030 23:18:16 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java50 - Forgot Password link is displayed.
+20241030 23:18:21 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testForgotPasswordFunctionality test passed
+20241030 23:18:23 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:23 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:23 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 23:18:23 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 23:18:23 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 23:18:24 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 23:18:24 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforPassword_SFDC
+20241030 23:18:24 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforPassword_SFDC test started
+20241030 23:18:24 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 23:18:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 23:18:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 23:18:28 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforPassword_SFDC test passed
+20241030 23:18:29 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:29 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:29 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 23:18:29 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 23:18:29 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 23:18:31 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 23:18:31 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforRemebermecheckBOX_SFDC
+20241030 23:18:31 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforRemebermecheckBOX_SFDC test started
+20241030 23:18:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 23:18:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 23:18:34 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 23:18:37 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforRemebermecheckBOX_SFDC test passed
+20241030 23:18:38 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:38 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:38 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 23:18:38 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 23:18:38 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241030 23:18:40 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241030 23:18:40 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforSalesforceLoginPage_SFDC
+20241030 23:18:40 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforSalesforceLoginPage_SFDC test started
+20241030 23:18:40 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241030 23:18:40 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241030 23:18:41 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241030 23:18:44 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforSalesforceLoginPage_SFDC test passed
+20241030 23:18:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241030 23:18:45 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241030 23:18:45 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241030 23:18:45 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce SFDC finished
+20241101 21:45:15 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce User Menu Tests started...............
+20241101 21:45:15 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:45:22 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:45:22 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforDeveloperConsole_Usermenu
+20241101 21:45:22 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforDeveloperConsole_Usermenu test started
+20241101 21:45:22 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:45:22 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:45:23 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:45:31 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241101 21:45:48 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241101 21:45:50 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - Developer Console tab is displayed.
+20241101 21:45:52 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java111 - Developer Console window closed.
+20241101 21:45:52 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforDeveloperConsole_Usermenu test passed
+20241101 21:45:54 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:45:54 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:45:54 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:45:54 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:45:55 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:45:55 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforlogout_Usermenu
+20241101 21:45:55 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforlogout_Usermenu test started
+20241101 21:45:55 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:45:55 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:45:56 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:45:58 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241101 21:45:58 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241101 21:46:01 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - Logout option is displayed.
+20241101 21:46:08 ERROR [main] Utility.SalesforceListener SalesforceListener.java64 - testforlogout_Usermenu test failed
+20241101 21:46:09 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:46:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:46:09 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:46:10 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:46:10 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforusername_Usermenu
+20241101 21:46:10 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforusername_Usermenu test started
+20241101 21:46:10 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:46:11 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:46:11 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:46:14 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241101 21:46:14 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241101 21:46:16 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforusername_Usermenu test passed
+20241101 21:46:17 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:46:17 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:46:18 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce User Menu Tests finished
+20241101 21:46:18 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce SFDC started...............
+20241101 21:46:18 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:46:19 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:46:19 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testForgotPasswordFunctionality
+20241101 21:46:19 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testForgotPasswordFunctionality test started
+20241101 21:46:19 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java130 - SFDC application launched.
+20241101 21:46:19 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java50 - Forgot Password link is displayed.
+20241101 21:46:24 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testForgotPasswordFunctionality test passed
+20241101 21:46:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:46:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:46:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:46:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:46:26 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforPassword_SFDC
+20241101 21:46:26 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforPassword_SFDC test started
+20241101 21:46:26 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:46:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:46:27 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:46:29 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforPassword_SFDC test passed
+20241101 21:46:31 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:31 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:31 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:46:31 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:46:31 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:46:32 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:46:32 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforRemebermecheckBOX_SFDC
+20241101 21:46:32 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforRemebermecheckBOX_SFDC test started
+20241101 21:46:34 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:46:35 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:46:35 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:46:37 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforRemebermecheckBOX_SFDC test passed
+20241101 21:46:39 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:39 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:39 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:46:39 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:46:39 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:46:40 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:46:40 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforSalesforceLoginPage_SFDC
+20241101 21:46:40 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforSalesforceLoginPage_SFDC test started
+20241101 21:46:40 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:46:40 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:46:41 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:46:43 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforSalesforceLoginPage_SFDC test passed
+20241101 21:46:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:45 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:46:45 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:46:45 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:46:45 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce SFDC finished
+20241101 21:50:23 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce User Menu Tests started...............
+20241101 21:50:23 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:50:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:50:25 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforDeveloperConsole_Usermenu
+20241101 21:50:25 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforDeveloperConsole_Usermenu test started
+20241101 21:50:25 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:50:25 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:50:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:50:29 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241101 21:50:29 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241101 21:50:31 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - Developer Console tab is displayed.
+20241101 21:50:33 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java111 - Developer Console window closed.
+20241101 21:50:33 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforDeveloperConsole_Usermenu test passed
+20241101 21:50:35 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:50:35 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:50:35 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:50:35 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:50:36 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:50:36 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforlogout_Usermenu
+20241101 21:50:36 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforlogout_Usermenu test started
+20241101 21:50:36 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:50:36 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:50:36 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:50:39 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241101 21:50:40 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241101 21:50:42 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - Logout option is displayed.
+20241101 21:50:49 ERROR [main] Utility.SalesforceListener SalesforceListener.java64 - testforlogout_Usermenu test failed
+20241101 21:50:50 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:50:50 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:50:50 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:50:50 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:50:52 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:50:52 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java34 - Starting test: testforusername_Usermenu
+20241101 21:50:52 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforusername_Usermenu test started
+20241101 21:50:52 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:50:52 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:50:52 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:50:55 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java63 - Logged in to Salesforce successfully.
+20241101 21:50:55 INFO  [main] Testscripts_usermenu.Automationscripts1_1 Automationscripts1_1.java51 - User menu is displayed.
+20241101 21:50:57 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforusername_Usermenu test passed
+20241101 21:50:59 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:50:59 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:50:59 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:50:59 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce User Menu Tests finished
+20241101 21:50:59 INFO  [main] Utility.SalesforceListener SalesforceListener.java29 - Salesforce SFDC started...............
+20241101 21:50:59 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:51:00 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:51:00 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testForgotPasswordFunctionality
+20241101 21:51:00 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testForgotPasswordFunctionality test started
+20241101 21:51:00 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java130 - SFDC application launched.
+20241101 21:51:00 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java50 - Forgot Password link is displayed.
+20241101 21:51:05 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testForgotPasswordFunctionality test passed
+20241101 21:51:06 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:51:06 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:51:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:51:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:51:06 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:51:07 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:51:07 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforPassword_SFDC
+20241101 21:51:07 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforPassword_SFDC test started
+20241101 21:51:07 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:51:08 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:51:08 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:51:10 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforPassword_SFDC test passed
+20241101 21:51:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:51:12 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:51:12 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:51:12 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:51:12 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:51:13 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:51:13 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforRemebermecheckBOX_SFDC
+20241101 21:51:13 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforRemebermecheckBOX_SFDC test started
+20241101 21:51:16 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:51:16 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:51:16 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:51:18 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforRemebermecheckBOX_SFDC test passed
+20241101 21:51:20 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:51:20 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:51:20 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:51:20 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:51:20 INFO  [main] Base.Salesforce_Login Salesforce_Login.java21 - -------------------------- Setup Before Method -------------------------------------
+20241101 21:51:21 INFO  [main] Base.Base_Login_1 Base_Login_1.java53 - https://login.salesforce.com/ is entered
+20241101 21:51:21 INFO  [main] Testscripts_SFDC.Automationscripts2_2 Automationscripts2_2.java32 - Starting test: testforSalesforceLoginPage_SFDC
+20241101 21:51:21 INFO  [main] Utility.SalesforceListener SalesforceListener.java53 - testforSalesforceLoginPage_SFDC test started
+20241101 21:51:21 INFO  [main] Base.Salesforce_Login Salesforce_Login.java38 - Logging into Salesforce with username: navindu796@gmail.com
+20241101 21:51:21 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Username field
+20241101 21:51:22 INFO  [main] Base.Base_Login_1 Base_Login_1.java67 - Data is entered in the Password field
+20241101 21:51:24 INFO  [main] Utility.SalesforceListener SalesforceListener.java58 - testforSalesforceLoginPage_SFDC test passed
+20241101 21:51:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:51:26 INFO  [main] Base.Base_Login_1 Base_Login_1.java100 - Browser is closed
+20241101 21:51:26 INFO  [main] Base.Salesforce_Login Salesforce_Login.java31 - -------------------------- Setup After Method -------------------------------------
+20241101 21:51:26 INFO  [main] Base.Salesforce_Login Salesforce_Login.java32 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+20241101 21:51:26 INFO  [main] Utility.SalesforceListener SalesforceListener.java75 - Salesforce SFDC finished

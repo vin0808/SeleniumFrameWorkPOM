@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  
+   <listeners>
+        <listener class-name="com.SeleniumFramework.Utility.SalesforceListener"/>
+    </listeners>
+
+    <test name="Salesforce User Menu Tests">       
+     <classes>
+       <class name="com.automation.Testscripts_usermenu.Automationscripts1_1"/>
+       </classes>             
+   </test><!-- Test -->
+    
+     <test name="Salesforce SFDC">       
+        <classes>
+          <class name="com.automation.Testscripts_SFDC.Automationscripts2_2"/>
+        </classes>             
+    </test><!-- Test -->
+</suite> <!-- Suite -->
+
